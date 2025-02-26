@@ -1,5 +1,6 @@
 
 // Question 01
+
 var num = parseFloat(prompt("Enter a number:"));
 
 if (num > 0) {
@@ -93,4 +94,3 @@ if (trafficLight === "red") {
 }
 
 console.log(action);
-
